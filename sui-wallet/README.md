@@ -15,6 +15,10 @@ Sui Wallet is a mobile wallet built with **Kotlin Multiplatform**, **Jetpack Com
 
 ![](asset/sui-android-wallet.png)
 
+### Android APK
+
+Download the Android APK [here](asset/sui-wallet.apk).
+
 ## iOS
 
 ![](asset/sui-ios-wallet.png)
