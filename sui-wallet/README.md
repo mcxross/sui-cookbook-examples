@@ -1,8 +1,7 @@
 # Sui Wallet
 
-Sui Wallet is a mobile wallet showcasing how to integrate Sui with a mobile application using Kotlin
-Multiplatform Mobile (KMM) and Jetpack Compose.
-It is a simple wallet that allows users to send and receive Sui tokens.
+Sui Wallet is a mobile wallet built with **Kotlin Multiplatform**, **Jetpack Compose**, and the 
+**Sui Kotlin Multiplatform lib**, **Ksui**, showcasing seamless Sui blockchain integration.
 
 ## Features
 
