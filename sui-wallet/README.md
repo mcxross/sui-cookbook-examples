@@ -1,6 +1,7 @@
 # Sui Wallet
 
-Sui Wallet is a mobile wallet showcasing how to integrate Sui with a mobile application. 
+Sui Wallet is a mobile wallet showcasing how to integrate Sui with a mobile application using Kotlin
+Multiplatform Mobile (KMM) and Jetpack Compose.
 It is a simple wallet that allows users to send and receive Sui tokens.
 
 ## Features
@@ -21,7 +22,8 @@ It is a simple wallet that allows users to send and receive Sui tokens.
 
 ## How to build
 
-Head over [here](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html?_gl=1*5zeajd*_gcl_au*MzY5NjYwMjYuMTczMTU0MTA0NA..*_ga*MzU4MjI3MjY3LjE3MDUxODA2Mjk.*_ga_9J976DJZ68*MTczNjE2MTE3MS4xMjAuMC4xNzM2MTYxMTcxLjYwLjAuMA..#run-your-application)
+Head
+over [here](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html?_gl=1*5zeajd*_gcl_au*MzY5NjYwMjYuMTczMTU0MTA0NA..*_ga*MzU4MjI3MjY3LjE3MDUxODA2Mjk.*_ga_9J976DJZ68*MTczNjE2MTE3MS4xMjAuMC4xNzM2MTYxMTcxLjYwLjAuMA..#run-your-application)
 to learn how to build the application.
 
 ## License
